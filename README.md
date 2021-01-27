@@ -1,8 +1,7 @@
-*******
-SUMÁRIO
-*******
+- Padrões de Projetos;
+- Reflection;
+- Lambdas;
 
-	* Padrões de Projetos
 
 *******************
 Padrões de Projetos
