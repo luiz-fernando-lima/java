@@ -1,8 +1,14 @@
-***********************
-Padrões de Projetos
-***********************
+*******
+SUMÁRIO
+*******
 
-1 - Singleton:
+	* Padrões de Projetos
+
+*******************
+Padrões de Projetos
+*******************
+
+Singleton:
 
 	- O Singleton é um padrão de projeto de Criação, com objetivo de garantir que uma classe tenha apenas uma instância e fornecer um ponto de acesso global a essa instância.
 
@@ -25,6 +31,4 @@ Padrões de Projetos
 
 	- Singleton ENUM: forma de implementar o padrão Singleton mantendo seu propósito e evitando os problemas descritos antes.
 
-2 - Strategy:
-	- 
-		
+Strategy:
