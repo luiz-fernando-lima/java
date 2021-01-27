@@ -1,5 +1,5 @@
 ***********************
-* Padrões de Projetos
+Padrões de Projetos
 ***********************
 
 1 - Singleton:
