@@ -1,8 +1,9 @@
 ***********************
-* Padrões de Projetos *
+* Padrões de Projetos
 ***********************
 
 1 - Singleton:
+
 	- O Singleton é um padrão de projeto de Criação, com objetivo de garantir que uma classe tenha apenas uma instância e fornecer um ponto de acesso global a essa instância.
 
 	- Singleton Eager Initialization:
