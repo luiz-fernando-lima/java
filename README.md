@@ -10,6 +10,22 @@ Conteúdos
 Padrões de Projetos
 *******************
 
+###########
+Criacionais
+###########
+
+Abstract Factory:
+
+	- 
+
+Factory Method:
+
+	- 
+
+Prototype:
+
+	- 
+
 Singleton:
 
 	- O Singleton é um padrão de projeto de Criacional, com objetivo de garantir que uma classe tenha apenas uma instância e fornecer um ponto de acesso global a essa instância.
@@ -34,6 +50,3 @@ Singleton:
 	- Singleton Enum: forma de implementar o padrão Singleton mantendo seu propósito e evitando os problemas descritos antes.
 	
 	- Exemplo: https://github.com/luiz-fernando-lima/java/tree/master/PadroesProjeto/Singleton
-
-
-Strategy:
